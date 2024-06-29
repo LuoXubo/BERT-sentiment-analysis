@@ -4,3 +4,6 @@
 [submodule "bert_classification"]
 	path = bert_classification
 	url = https://github.com/pengming617/bert_classification.git
+[submodule "EasyBert"]
+	path = EasyBert
+	url = https://github.com/rsanshierli/EasyBert.git
