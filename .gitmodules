@@ -1,0 +1,6 @@
+[submodule "ABSA-PyTorch"]
+	path = ABSA-PyTorch
+	url = https://github.com/songyouwei/ABSA-PyTorch.git
+[submodule "bert_classification"]
+	path = bert_classification
+	url = https://github.com/pengming617/bert_classification.git
